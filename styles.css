@@ -9,6 +9,16 @@
   margin: 50px auto;
 }
 
+#header {
+  background-color: green;
+  height:4vh;
+  text-align:center;
+}
+
+#header h1{
+  color: white;
+}
+
 p {
   display: block;
   width: 400px;
